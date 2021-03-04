@@ -8,6 +8,7 @@ OC.L10N.register(
     "Do not prune not available user groups on login": "Bei der Anmeldung nicht verfügbare Gruppen nicht löschen",
     "Automatically create groups if they do not exists": "Nicht existierende Gruppen automatisch erstellen",
     "Restrict login for users without mapped groups": "Anmeldung auf Benutzer in festgelegten Gruppen beschränken",
+    "Hide default login (can be made visible with /login?showDefault=true)": "Standard-Login ausblenden (kann durch /login?showDefault=true wieder sichtbar gemacht werden)",
 
     "None": "Keine",
     "Save": "Speichern",
